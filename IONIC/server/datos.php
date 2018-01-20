@@ -1,5 +1,5 @@
 <?php
-define("USER", "b10_21343515");
-define("SERVER", "sql107.byethost10.com");
-define("BD", "b10_21343515_Registro");
-define("PASS", "Armandotelmo123");
+define("USER", "b11_21140704");
+define("SERVER", "sql313.byethost11.com");
+define("BD", "b11_21140704_GuidePlaces");
+define("PASS", "ILOVEKOREA25");
