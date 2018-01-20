@@ -1,5 +1,5 @@
 
-CREATE TABLE IF NOT EXISTS `Personas`.`Usuarios` (
+CREATE TABLE IF NOT EXISTS `Personas`(
   `idUsuarios` INT NOT NULL,
   `Nombres` VARCHAR(45) NOT NULL,
   `Apellidos` VARCHAR(45) NOT NULL,
